@@ -117,8 +117,5 @@ Performance may vary depending on training epochs, learning rate, batch size, an
 
 📧 **Email:**  
 - ng.h.nam0802@gmail.com  
-- danhnatit@gmail.com  
-
-🔗 **LinkedIn:**  
-- https://www.linkedin.com/in/nghnam0802
+- danhnatit@gmail.com
 
