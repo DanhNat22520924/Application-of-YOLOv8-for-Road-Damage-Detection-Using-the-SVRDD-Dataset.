@@ -87,14 +87,6 @@ The notebook supports:
 ## 6. Demo Results
 Below are example outputs from the trained YOLOv8n model on SVRDD test images.
 
-### 🔍 Road Damage Detection Demo
-
-```md
-![Demo 1](demo/demo_1.jpg)
-![Demo 2](demo/demo_2.jpg)
-![Demo 3](demo/demo_3.jpg)
-```
-
 Each bounding box represents a detected road damage type with its corresponding confidence score.
 
 ---
